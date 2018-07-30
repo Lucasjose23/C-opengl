@@ -1,0 +1,81 @@
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe.config
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.pdb
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Cg.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.DevIl.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FFmpeg.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeType.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Glfw.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Lua.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Ode.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenAl.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenGl.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.PhysFs.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.X11.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Sdl.dll
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Cg.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.DevIl.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FFmpeg.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeType.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Glfw.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Lua.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Ode.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenAl.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenGl.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.PhysFs.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.X11.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\bin\Debug\Tao.Sdl.xml
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.exe
+C:\Users\Lucas\OneDrive\Documentos\7 periodo\COMP GRAFICA\1BIM\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.pdb
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe.config
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.exe
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.pdb
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.pdb
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\mscorlib.dll
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\normidna.nlp
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\normnfc.nlp
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\normnfd.nlp
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\normnfkc.nlp
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\bin\Debug\normnfkd.nlp
+C:\Users\Faber Diego\Desktop\Faculdade\7º Periodo\Computação Grafica\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe.config
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.exe
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.pdb
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.exe
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\trabalho1bim.pdb
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Cg.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.DevIl.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FFmpeg.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeType.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Glfw.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Lua.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Ode.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenAl.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenGl.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.PhysFs.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.X11.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Sdl.dll
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Cg.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.DevIl.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FFmpeg.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.FreeType.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Glfw.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Lua.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Ode.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenAl.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.OpenGl.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.PhysFs.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Platform.X11.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\bin\Debug\Tao.Sdl.xml
+C:\Users\Lucas\Desktop\trabalho1bim\trabalho1bim\obj\Debug\trabalho1bim.csprojResolveAssemblyReference.cache
